@@ -8,7 +8,7 @@
         SystemID: 'US_DIRECT_PRODUCTION',
         SiteAlias: '33889c91',
         SiteType: atob('RFVEQU9ORQ=='),
-        PublicationDate: 'Mon May 16 16:56:18 UTC 2022',
+        PublicationDate: 'Sat Jan 07 15:56:09 UTC 2023',
         ExternalUid: null,
         IsSiteMultilingual: false,
         InitialPostAlias: '',
@@ -23,7 +23,7 @@
         HomeLinkText: 'Back To Home',
         UseGalleryModule: false,
         CurrentThemeName: 'Layout Theme',
-        ThemeVersion: '5920',
+        ThemeVersion: '8440',
         DefaultPageAlias: '',
         RemoveDID: true,
         WidgetStyleID: null,
@@ -36,7 +36,7 @@
         StorePath: '',
         StoreId: 'null',
         StoreVersion: 0,
-        StoreBaseUrl: '/site/33889c91?preview=true&dm_device=tablet&dm_exportSite=true&nossl&dm_exportSite_protected=bc8d39d9_1672776147777_5_ea9100610d282a71024b89312012e86ab74647ad6f0399b4ed5a72e4c5b29e29',
+        StoreBaseUrl: '/site/33889c91?preview=true&dm_device=tablet&dm_exportSite=true&nossl&dm_exportSite_protected=0d0ce589_1673992577737_5_12d6237577a14ba7fdbafde81f40964ddb865860b9dedb2b1c6ec619f5f6e3aa',
         StoreCleanUrl: true,
         StoreDisableScrolling: true,
         IsStoreSuspended: false,
@@ -48,6 +48,7 @@
         isFastMigrationSite: false,
         sidebarPosition: 'NA',
         currentLanguage: 'en',
+        currentLocale: 'en',
         NavItems: '{}',
         errors: {
             general: 'There was an error connecting to the page.<br/> Make sure you are not offline.',
@@ -227,18 +228,18 @@
     "latitude" : "52.93683",
     "longitude" : "-1.44166"
   },
-  "url" : "https://www.drpflooringltd.co.uk",
+  "url" : "http://www.drpflooringltd.co.uk",
   "telephone" : "+447946407787",
   "email" : "dan.parker1477@googlemail.com",
   "logo" : "https://irp.cdn-website.com/33889c91/dms3rep/multi/mainlogo-ba429764.png",
   "sameAs" : [ "https://facebook.com/pg/drpflooring/posts/?ref=page_internal" ],
-  "image" : [ "https://irp.cdn-website.com/33889c91/dms3rep/multi/mainlogo-ba429764.png", "https://irp.cdn-website.com/33889c91/dms3rep/multi/12.jpeg", "https://irp.cdn-website.com/33889c91/dms3rep/multi/9-f18e578e.jpeg", "https://irp.cdn-website.com/33889c91/dms3rep/multi/3+%281%29.jpeg", "https://irp.cdn-website.com/33889c91/dms3rep/multi/Screenshot+2021-12-11+at+15.33.50.png" ],
+  "image" : [ "https://irp.cdn-website.com/33889c91/dms3rep/multi/mainlogo-ba429764.png", "https://irp.cdn-website.com/33889c91/dms3rep/multi/9-f18e578e.jpeg", "https://irp.cdn-website.com/33889c91/dms3rep/multi/12.jpeg", "https://irp.cdn-website.com/33889c91/dms3rep/multi/3+%281%29.jpeg", "https://irp.cdn-website.com/33889c91/dms3rep/multi/Screenshot+2021-12-11+at+15.33.50.png" ],
   "openingHoursSpecification" : [ {
     "@type" : "OpeningHoursSpecification",
     "dayOfWeek" : [ "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" ],
     "opens" : "09:00",
     "closes" : "18:00"
   } ],
-  "@id" : "https://www.drpflooringltd.co.uk?id=105491672",
+  "@id" : "http://www.drpflooringltd.co.uk?id=122096958",
   "priceRange" : "££"
 }
